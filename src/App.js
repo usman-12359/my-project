@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>AOA Usman Sir.This changed Through CI/CD pipeline hosted on s3 Bucket!</h1>
+        <h1>AOA Usman Sir.created CI/CD pipeline and hosted on s3 Bucket!</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
